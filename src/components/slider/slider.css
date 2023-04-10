@@ -120,17 +120,17 @@ article.nextSlide{
         width: 200px;
     }
     .title h2{
-        font-size: 30px;
+        font-size: 40px;
      }
     .prev,
     .next {
-        width: 2.5rem;
-        height: 2.4rem;
+        width: 2.3rem;
+        height: 2.3rem;
         font-size: 1rem;
     }
     img.person-img{
-      height: 200px;
-      width: 200px;
+      height: 220px;
+      width: 220px;
     }
     
 }
