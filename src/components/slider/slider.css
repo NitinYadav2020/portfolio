@@ -79,14 +79,6 @@ article.nextSlide{
       
 }
 
-/* .text{
-    max-width: 35rem;
-    margin: 0 auto;
-    margin-top: 2rem;
-    line-height: 2;
-    color: aqua;
-} */
-
 .prev,
 .next{
     position: absolute;
@@ -118,6 +110,7 @@ article.nextSlide{
 @media screen and (max-width: 480px){
     .section{
         width: 200px;
+        height: 80vh;
     }
     .title h2{
         font-size: 30px;
