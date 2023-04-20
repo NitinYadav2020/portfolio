@@ -115,6 +115,10 @@ article.nextSlide{
     .title h2{
         font-size: 30px;
      }
+     .title{
+        text-align: center;
+        margin-bottom: 2rem;
+    }
     .prev,
     .next {
         width: 2.5rem;
